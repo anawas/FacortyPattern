@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FactoryPattern
 {
-    class Titanium : CreditCard
+    public class Titanium : CreditCard
     {
         public int GetAnnualCharge()
         {
